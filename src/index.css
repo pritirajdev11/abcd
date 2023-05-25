@@ -1,0 +1,51 @@
+.Demo
+{
+ height:800px;
+ width:80%;
+ border:2px solid black;
+ float:left;
+ margin-left:10%;
+ margin-top:3%;
+ background-color: white;
+}
+.Demo1
+{
+    height:60px;
+    width:90%;
+    border:2px solid black;
+    float:left;
+
+     background-color: skyblue;
+    
+}
+
+.img1{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-left:110%;
+    margin-bottom: 20px;
+    
+   
+
+    }
+.Demo3{
+   height:600px;
+   width:100%;
+   margin-top: 2%;
+  background-color: orange;
+  border:1px solid black;
+  box-sizing:border-box;
+  margin-top: 7%;
+  
+
+  
+ 
+
+  }
+  
+
+
+
+   
+
